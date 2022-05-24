@@ -29,6 +29,8 @@
 
 <br/>
 
+<!--
 <p align="center">
   <a href="#" alt="kristijan's github stats"><img src="https://github-readme-stats.vercel.app/api?username=kristijanmihaljinac" /></a>
 </p>
+-->

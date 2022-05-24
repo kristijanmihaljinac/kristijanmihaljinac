@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristijan Mihaljinac</h1>
-<h3 align="center">A passionate full-stack developer from Croatia</h3>
+<h3 align="center">Full-stack developer from Croatia</h3>
 
 - 🌱 I’m currently learning **for Azure certificates**
 

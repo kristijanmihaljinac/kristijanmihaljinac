@@ -56,3 +56,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
 </p>
+
+
+## GitHub Stats
+
+<a href="https://github.com/kristijanmihaljinac">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kristijanmihaljinac&show_icons=true&theme=shades-of-purple&count_private=true" alt="JasonTaylorDev's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristijanmihaljinac&theme=shades-of-purple&layout=compact" 
+    alt="kristijanmihaljinac GitHub Top Languages" />
+</a>

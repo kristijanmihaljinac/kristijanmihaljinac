@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Kristijan Mihaljinac</h1>
 <h3>Full-stack developer from Croatia</h3>
-<p> 🌱 I&rsquo;m currently learning for Azure certificates <br /> 💬 Ask me about .NET, T-SQL, Blazor, C# <br /> 📫 How to reach me: <a href="mailto: kristijan.mihaljinac@gmail.com" target="_blank">kristijan.mihaljinac@gmail.com</a>
+<p> 💬 Ask me about .NET, T-SQL, Blazor, C# <br /> 📫 How to reach me: <a href="mailto: kristijan.mihaljinac@gmail.com" target="_blank">kristijan.mihaljinac@gmail.com</a>
 </p>
 <h3>Connect with me:</h3>
 <p>

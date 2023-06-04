@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Kristijan Mihaljinac</h1>
-<h3>Full-stack developer from Croatia</h3>
+<h3>Full Stack Developer from Croatia</h3>
 <p> 💬 Ask me about .NET, T-SQL, Blazor, C# <br /> 📫 How to reach me: <a href="mailto: kristijan.mihaljinac@gmail.com" target="_blank">kristijan.mihaljinac@gmail.com</a> <br/> <a href="https://github.com/DigDes/SoapCore" target="blank"> <b>SoapCore</b> </a> contributor
 </p>
 <h3>Connect with me:</h3>
